@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RENDY/static/css/main.c54ab0d4.css",
+    "main.js": "/RENDY/static/js/main.16b7ea6f.js",
+    "static/media/ThanitApril_32.jpg": "/RENDY/static/media/ThanitApril_32.69f0a7d12fedf887c5fc.jpg",
+    "static/media/banner_2.jpg": "/RENDY/static/media/banner_2.4835e8b658f50d652908.jpg",
+    "static/media/tentang kami_1.jpg": "/RENDY/static/media/tentang kami_1.6c76afadd6a0ffff65e6.jpg",
+    "static/media/29966.jpg": "/RENDY/static/media/29966.e63d46c688b53083ac5a.jpg",
+    "static/media/rendy_4.JPG": "/RENDY/static/media/rendy_4.3d24bad355f035ef51ab.JPG",
+    "static/media/rendy_5.JPG": "/RENDY/static/media/rendy_5.7bbd2d3cb5673ea8907f.JPG",
+    "static/media/rendyLogo.jpg": "/RENDY/static/media/rendyLogo.8b05bf1e907628c83c34.jpg",
+    "static/media/mobilBersih.png": "/RENDY/static/media/mobilBersih.330d3e8a93609082c82f.png",
+    "static/media/24jam.png": "/RENDY/static/media/24jam.652410b5530cf8dec402.png",
+    "static/media/hargaMurah.png": "/RENDY/static/media/hargaMurah.fda36f2a0725ce00afa5.png",
+    "index.html": "/RENDY/index.html",
+    "main.c54ab0d4.css.map": "/RENDY/static/css/main.c54ab0d4.css.map",
+    "main.16b7ea6f.js.map": "/RENDY/static/js/main.16b7ea6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c54ab0d4.css",
+    "static/js/main.16b7ea6f.js"
+  ]
+}
