@@ -1,0 +1,254 @@
+:root {
+  --white-color : #FFFFFF ;
+  --black-color : #000000;
+  --font-size-primary : 16px;
+  --card-color: #F7F0F7;
+  --footer-color: #212F3C; 
+  --about-color: #DAEBEB;
+}
+
+/* .App {
+  text-align: center;
+} */
+
+.App-header {
+  background-color: var(--white-color);
+  min-height: 100vh;
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin); */
+  color: var(--black-color);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.container{
+ width: 900px;
+}
+
+
+/* HomePage */
+.myMainContent{
+  /* margin-top: 30px; */
+  margin-bottom: 100px;
+}
+
+.header-sewaKendaraan{
+  text-align: center;
+  margin-top: 30px;
+  padding: 10px;
+}
+
+.header-sewaKendaraan h5{
+  margin-top: 15px;
+}
+
+.judul_list_kendaraan{
+  text-align: center;
+  margin: 30px;
+  /* padding: 10px; */
+}
+
+.judul_list_kendaraan h5{
+  margin-bottom: 30px;
+}
+
+.List-kendaraan {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.List-wrapper {
+  width: 400px;
+  background-color: var(--card-color);
+  color: black;
+  border-radius: 10px;
+}
+
+.List-image {
+  width: 220px;
+  height: 130px;
+  margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+.List-nama{
+  text-align: center;
+  font-weight: bold;
+}
+
+.List-type_kendaraan{
+  margin-left: 10px;
+
+}
+
+.List-type_transmisi{
+  margin-left: 10px;
+}
+
+.List-warna{
+  margin-left: 10px;
+}
+
+.List-kapasitas{
+  margin-left: 10px;
+}
+
+.imgBanner {
+  width: 100%;
+}
+
+.imgLogo{
+  width: 150px;
+  margin-left: 80px;
+}
+
+.myNavbar{
+  text-align: center;
+  border-bottom: 1px solid var(--black-color);
+}
+
+.nav-item{
+  font-weight: bold;
+  margin-right: 50px;
+  font-size: large;
+}
+
+.buttonInfo{
+  margin-left: 115px;
+  margin-bottom: 20px;
+}
+
+
+/* PilihKami */
+.myPilihKami{
+  margin-bottom: 30px;
+}
+
+.header-PilihKami{
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.tamplate_PilihKami{
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.PilihKami-section{
+  width: 20%;
+  margin: 0 auto;
+}
+
+.imgPilihKami{
+  height: 130px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* AboutUs */
+.myAbout{
+  /* margin-top: 30px; */
+  background-color: var(--about-color);
+  height: 250px;
+}
+
+.tamplate_aboutus{
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;  
+}
+
+.aboutus-section{
+  width: 20%;
+  margin: 0 auto;
+}
+
+.aboutus-section h5{
+  margin-top: 30px;
+  /* color: #DAEBEB; */
+}
+
+.linkSosmed{
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+
+/* Footer */
+.myFooter{
+  width : 100%;
+  text-align : center;
+  background-color: var(--footer-color);
+  padding : 0.75rem;
+  color: var(--white-color);
+}
+
+/* Tentang Kami */
+.header-TentangKami{
+    margin: auto;
+    display: flex;      
+    /* margin-bottom: 50px; */
+    
+}
+
+.header-TentangKami2{
+    margin: auto;
+    display: flex;      
+    margin-bottom: 50px;
+  background-color: #003940;
+}
+
+.imgTentangKami1{
+  width: 900px;
+}
+
+.imgTentangKami2{
+  width: 750px;
+}
+
+.kolom{
+  margin: 50px 50px;
+}
+
+.kolom h1{
+  font-weight: bold;
+  text-align: center;
+  margin-top: 150px;
+  color: #003940;
+}
+
+.kolom h2{
+  font-weight: bold;
+  color: #E1CA92;
+  margin-top: 30px;
+}
+
+.kolom p{
+  color: var(--white-color);
+}
+
+
+
+
+
+
+
