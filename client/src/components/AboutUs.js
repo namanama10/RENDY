@@ -28,8 +28,8 @@ const AboutUs = () => {
                 </div>
                 <div className="aboutus-section">
                     <h5>Follow Us</h5>
-                    <p><ImFacebook></ImFacebook><a href='https://www.facebook.com/rachmat.andydwianto' target='_blank' className='linkSosmed'>RachmatAndy</a></p>
-                    <p><ImTwitter></ImTwitter><a href='https://twitter.com/RachmatAndy3' target='_blank' className='linkSosmed'>@RachmatAndy3</a></p>
+                    <p><ImFacebook></ImFacebook><a href='https://m.facebook.com/login/?locale=id_ID&refsrc=deprecated' target='_blank' className='linkSosmed'>Facebook</a></p>
+                    <p><ImTwitter></ImTwitter><a href='https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiaWQifQ%3D%3D%22%7D' target='_blank' className='linkSosmed'>Twitter</a></p>
                     <p><GrInstagram></GrInstagram><a href='https://www.instagram.com/rachmat_andy/?hl=id' target='_blank' className='linkSosmed'>@Rachmat_Andy</a></p>
                 </div>
             </div>
