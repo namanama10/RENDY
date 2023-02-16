@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RENDY/static/css/main.c54ab0d4.css",
-    "main.js": "/RENDY/static/js/main.16b7ea6f.js",
+    "main.js": "/RENDY/static/js/main.38a0aeef.js",
     "static/media/ThanitApril_32.jpg": "/RENDY/static/media/ThanitApril_32.69f0a7d12fedf887c5fc.jpg",
     "static/media/banner_2.jpg": "/RENDY/static/media/banner_2.4835e8b658f50d652908.jpg",
     "static/media/tentang kami_1.jpg": "/RENDY/static/media/tentang kami_1.6c76afadd6a0ffff65e6.jpg",
@@ -14,10 +14,10 @@
     "static/media/hargaMurah.png": "/RENDY/static/media/hargaMurah.fda36f2a0725ce00afa5.png",
     "index.html": "/RENDY/index.html",
     "main.c54ab0d4.css.map": "/RENDY/static/css/main.c54ab0d4.css.map",
-    "main.16b7ea6f.js.map": "/RENDY/static/js/main.16b7ea6f.js.map"
+    "main.38a0aeef.js.map": "/RENDY/static/js/main.38a0aeef.js.map"
   },
   "entrypoints": [
     "static/css/main.c54ab0d4.css",
-    "static/js/main.16b7ea6f.js"
+    "static/js/main.38a0aeef.js"
   ]
 }
