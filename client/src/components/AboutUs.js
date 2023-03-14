@@ -17,7 +17,7 @@ const AboutUs = () => {
                 </div>
                 <div className="aboutus-section">
                     <h5><MdLocationOn></MdLocationOn>  Lokasi</h5>
-                    <p>jl. raya regensi  kec.priuk, kel.priuk, Kota TANGERANG,BANTEN. 15131, INDONESIA</p>
+                    <p>jl. raya regensi  kec.priuk, kel.priuk, Kota TANGERANG, BANTEN. 15131, INDONESIA</p>
                 </div>
                 <div className="aboutus-section">
                     <h5>Kontak kami</h5>

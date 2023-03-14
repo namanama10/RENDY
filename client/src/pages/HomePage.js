@@ -67,8 +67,8 @@ const HomePage = () => {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>First slide</h3>
-          <p></p>
+          <h3 className='CaraoselCaption'>Menikmati liburan</h3>
+          <p className='CaraoselCaption1'>Bersama teman & keluarga</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -79,7 +79,7 @@ const HomePage = () => {
         />
 
         <Carousel.Caption>
-          <h3>Second slide</h3>
+          <h3></h3>
           <p></p>
         </Carousel.Caption>
       </Carousel.Item>
@@ -91,7 +91,7 @@ const HomePage = () => {
         />
 
         <Carousel.Caption>
-          <h3>Third slide</h3>
+          <h3></h3>
           <p></p>
         </Carousel.Caption>
       </Carousel.Item>
