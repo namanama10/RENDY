@@ -22,7 +22,7 @@ const AboutUs = () => {
                 <div className="aboutus-section">
                     <h5>Kontak kami</h5>
                     <p><MdCall></MdCall>  (+62) 8210987654</p>
-                    <p><ImWhatsapp></ImWhatsapp>  (+62) 8771234568</p>
+                    <p><ImWhatsapp></ImWhatsapp><a href='https://wa.me/6285156715007' target='_blank' className='linkSosmed'>  (+62) 85156715007</a></p>
                     <h5>Jam Operasional</h5>
                     <p>24 jam / senin - minggu (buka)</p>
                 </div>

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, {useState} from 'react'
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
 import { BsWhatsapp } from "react-icons/bs";
@@ -88,11 +88,11 @@ const HomePage = () => {
             <Modal.Header closeButton>
               <Modal.Title>Pesan Sekarang</Modal.Title>
             </Modal.Header>
-            <Modal.Body>Untuk Pemesanan & tarif harganya silahkan hubungi nomer dibawah ini !!! </Modal.Body>
+            <Modal.Body>Untuk Pemesanan & tarif harganya silahkan hubungi nomer dibawah ini !!!</Modal.Body>
             <Modal.Footer>
               <div className='badgeWa'>
               <h4>
-               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 08771234568 </Badge>
+               <Badge bg="success"><BsWhatsapp></BsWhatsapp>085156715007</Badge>
              </h4>
              </div>
             </Modal.Footer>
@@ -120,7 +120,7 @@ const HomePage = () => {
             <Modal.Footer>
               <div className='badgeWa'>
               <h4>
-               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 08771234568 </Badge>
+               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 085156715007 </Badge>
              </h4>
              </div>
             </Modal.Footer>
@@ -148,7 +148,7 @@ const HomePage = () => {
             <Modal.Footer>
               <div className='badgeWa'>
               <h4>
-               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 08771234568 </Badge>
+               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 085156715007 </Badge>
              </h4>
              </div>
             </Modal.Footer>
@@ -176,7 +176,7 @@ const HomePage = () => {
             <Modal.Footer>
               <div className='badgeWa'>
               <h4>
-               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 08771234568 </Badge>
+               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 085156715007 </Badge>
              </h4>
              </div>
             </Modal.Footer>
@@ -204,7 +204,7 @@ const HomePage = () => {
             <Modal.Footer>
               <div className='badgeWa'>
               <h4>
-               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 08771234568 </Badge>
+               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 085156715007 </Badge>
              </h4>
              </div>
             </Modal.Footer>
@@ -232,7 +232,7 @@ const HomePage = () => {
             <Modal.Footer>
               <div className='badgeWa'>
               <h4>
-               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 08771234568 </Badge>
+               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 085156715007 </Badge>
              </h4>
              </div>
             </Modal.Footer>
@@ -260,7 +260,7 @@ const HomePage = () => {
             <Modal.Footer>
               <div className='badgeWa'>
               <h4>
-               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 08771234568 </Badge>
+               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 085156715007 </Badge>
              </h4>
              </div>
             </Modal.Footer>
@@ -288,7 +288,7 @@ const HomePage = () => {
             <Modal.Footer>
               <div className='badgeWa'>
               <h4>
-               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 08771234568 </Badge>
+               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 085156715007 </Badge>
              </h4>
              </div>
             </Modal.Footer>
@@ -316,7 +316,7 @@ const HomePage = () => {
             <Modal.Footer>
               <div className='badgeWa'>
               <h4>
-               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 08771234568 </Badge>
+               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 085156715007 </Badge>
              </h4>
              </div>
             </Modal.Footer>
@@ -344,7 +344,7 @@ const HomePage = () => {
             <Modal.Footer>
               <div className='badgeWa'>
               <h4>
-               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 08771234568 </Badge>
+               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 085156715007 </Badge>
              </h4>
              </div>
             </Modal.Footer>
@@ -372,7 +372,7 @@ const HomePage = () => {
             <Modal.Footer>
               <div className='badgeWa'>
               <h4>
-               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 08771234568 </Badge>
+               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 085156715007 </Badge>
              </h4>
              </div>
             </Modal.Footer>
@@ -400,7 +400,7 @@ const HomePage = () => {
             <Modal.Footer>
               <div className='badgeWa'>
               <h4>
-               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 08771234568 </Badge>
+               <Badge bg="success"><BsWhatsapp></BsWhatsapp> 085156715007 </Badge>
              </h4>
              </div>
             </Modal.Footer>
