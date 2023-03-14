@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RENDY/static/css/main.c54ab0d4.css",
-    "main.js": "/RENDY/static/js/main.38a0aeef.js",
+    "main.css": "/RENDY/static/css/main.9e135304.css",
+    "main.js": "/RENDY/static/js/main.2c93cc45.js",
     "static/media/ThanitApril_32.jpg": "/RENDY/static/media/ThanitApril_32.69f0a7d12fedf887c5fc.jpg",
     "static/media/banner_2.jpg": "/RENDY/static/media/banner_2.4835e8b658f50d652908.jpg",
     "static/media/tentang kami_1.jpg": "/RENDY/static/media/tentang kami_1.6c76afadd6a0ffff65e6.jpg",
@@ -13,11 +13,11 @@
     "static/media/24jam.png": "/RENDY/static/media/24jam.652410b5530cf8dec402.png",
     "static/media/hargaMurah.png": "/RENDY/static/media/hargaMurah.fda36f2a0725ce00afa5.png",
     "index.html": "/RENDY/index.html",
-    "main.c54ab0d4.css.map": "/RENDY/static/css/main.c54ab0d4.css.map",
-    "main.38a0aeef.js.map": "/RENDY/static/js/main.38a0aeef.js.map"
+    "main.9e135304.css.map": "/RENDY/static/css/main.9e135304.css.map",
+    "main.2c93cc45.js.map": "/RENDY/static/js/main.2c93cc45.js.map"
   },
   "entrypoints": [
-    "static/css/main.c54ab0d4.css",
-    "static/js/main.38a0aeef.js"
+    "static/css/main.9e135304.css",
+    "static/js/main.2c93cc45.js"
   ]
 }
