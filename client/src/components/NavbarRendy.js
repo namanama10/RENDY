@@ -10,12 +10,12 @@ const NavbarRendy = () => {
     <>
     <Navbar bg="white" expand="lg">
       <Container>
-        <Navbar.Brand href="/"><img src={LogoWeb} alt='' className='imgLogo'/></Navbar.Brand>
+        <Link to="/"><img src={LogoWeb} alt='' className='imgLogo'/></Link>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto h5">
-            <Nav.Link href="/" className="TextNavbar">Home</Nav.Link>
-            <Nav.Link href="/TentangKami" className="TextNavbar">Tentang Kami</Nav.Link>
+            <Link to="/" className="TextNavbar">Home</Link>
+            <Link to="/TentangKami" className="TextNavbar">Tentang Kami</Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

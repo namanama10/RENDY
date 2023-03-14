@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import { getAllItems } from '../axios/api';
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
 import { BsWhatsapp } from "react-icons/bs";
@@ -12,51 +11,15 @@ import GambarBanner2 from '../images/ThanitApril_32.jpg'
 import GambarBanner3 from '../images/29966.jpg'
 
 const HomePage = () => {
-    const [items, setItems] = useState([])
-    // function App() {
-     useEffect(() => {
-      getAllItems(result => setItems(result))
-     }, [])
+    // const [items, setItems] = useState([])
+    //  useEffect(() => {
+    //   getAllItems(result => setItems(result))
+    //  }, [])
     
       const [show, setShow] = useState(false);
     
       const handleClose = () => setShow(false);
       const handleShow = () => setShow(true);
-    
-    
-    //  const ListKendaraan = () => {
-    //   return items.map((item) => {
-    //     const { id, gambar, nama, type_kendaraan, type_transmisi, warna, kapasitas_kendaraan } = item
-    //     return (
-    //         <div className='List-wrapper' key={id}>
-    //           <img className='List-image' src={gambar}/>
-    //           <div className='List-nama'>{nama}</div>
-    //           <div className='List-type_kendaraan'>{type_kendaraan}</div>
-    //           <div className='List-type_transmisi'>Transmisi = {type_transmisi}</div>
-    //           <div className='List-warna'>Warna = {warna}</div>
-    //           <div className='List-kapasitas'>Kapasitas kendaraan = {kapasitas_kendaraan}</div>
-    //           <hr/>
-    //           <Button className='buttonInfo' variant="primary" onClick={handleShow}>
-    //         Selengkapnya <BsArrowRight></BsArrowRight>
-    //       </Button>
-    //       <Modal show={show} onHide={handleClose}>
-    //         <Modal.Header closeButton>
-    //           <Modal.Title>Pesan Sekarang</Modal.Title>
-    //         </Modal.Header>
-    //         <Modal.Body>Untuk Pemesanan & tarif harganya silahkan hubungi nomer dibawah ini !!! </Modal.Body>
-    //         <Modal.Footer>
-    //           <div className='badgeWa'>
-    //           <h4>
-    //            <Badge bg="success"><BsWhatsapp></BsWhatsapp> 08771234568 </Badge>
-    //          </h4>
-    //          </div>
-    //         </Modal.Footer>
-    //       </Modal>
-    //         </div>
-    //     )
-    //   })
-    // }
-    
       return (
         <>
         <Carousel>

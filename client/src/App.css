@@ -260,11 +260,17 @@
   font-weight: bold;
 }
 
-/* .TextNavbar {
-  font-weight: bold;
-  background-color: #61dafb;
+.TextNavbar {
+  /* font-weight: bold; */
   margin: 0px 5px 0px 5px;
-} */
+  text-decoration: none;
+  color:#000000;
+  cursor: pointer;
+}
+
+.TextNavbar:hover{
+  color: grey;
+}
 
 /* responsive */
 @media screen and (max-width: 500px) {

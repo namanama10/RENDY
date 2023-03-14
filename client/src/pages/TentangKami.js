@@ -11,7 +11,6 @@ const TentangKami = () => {
           <h1>Solusi Transportasi Terbaik di Segala Situasi</h1>
         </div>
       </div>
-      {/* <div className='container'> */}
       <div className='header-TentangKami2'>  
         <div className="kolom">
           <h2>Tentang RENDY</h2>    
@@ -21,7 +20,6 @@ const TentangKami = () => {
         </div>
         <img src={TentangKami2} className='imgTentangKami2'/> 
       </div>
-      {/* </div> */}
     </>
     
   )
